@@ -21,3 +21,24 @@ defaults:
       layout: "default"
 
 permalink: /guides/:title:output_ext
+
+collections:
+  general:
+    title: General Guides
+    output: true
+    permalink: /guides/:collection/:name:output_ext
+
+  participation:
+    title: Participation Guides
+    output: true
+    permalink: /guides/:collection/:name:output_ext
+
+  homework:
+    title: Homework Guides
+    output: true
+    permalink: /guides/:collection/:name:output_ext
+
+  projects:
+    title: Project Guides
+    output: true
+    permalink: /guides/:collection/:name:output_ext
