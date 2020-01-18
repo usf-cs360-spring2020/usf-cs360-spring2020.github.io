@@ -43,7 +43,7 @@
 
       {%- if page.assignments %}
       <p>
-        <span class="heading">Associated Assignments</span>
+        <strong class="heading has-text-grey">Associated Assignments</strong>
         {%- for item in page.assignments %}
         {%- if item.link %}
         <a href="{{ item.link }}">{{ item.text }}</a> {{ item.info }}
