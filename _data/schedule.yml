@@ -1,0 +1,813 @@
+# icons with legend
+icons:
+  website: &icon_website
+    label: Website
+    class: far fa-atlas
+  code: &icon_code
+    label: Code
+    class: far fa-code
+  slides: &icon_slides
+    label: Slides
+    class: far fa-chalkboard-teacher
+  video: &icon_video
+    label: Video
+    class: far fa-video
+  project: &icon_project
+    label: Project
+    class: far fa-code-branch
+  homework: &icon_homework
+    label: Homework
+    class: far fa-file-code
+  lab: &icon_lab
+    label: Lab
+    class: far fa-laptop-code
+  participation: &icon_participation
+    label: Participation
+    class: far fa-user-friends
+  quiz: &icon_quiz
+    label: Survey
+    class: far fa-edit
+  date: &icon_date
+    label: Date
+    class: far fa-calendar-alt
+
+# icons without legend
+icons_special:
+  warning: &icon_warning
+    label: Warning
+    class: fas fa-exclamation-triangle
+  youtube: &icon_youtube
+    label: YouTube
+    class: fab fa-youtube
+  pending: &icon_pending
+    label: Pending
+    class: far fa-question-square
+  evals: &icon_evals
+    label: Special
+    class: far fa-users-class
+  presentation: &icon_presentation
+    label: Presentation
+    class: far fa-user-chart
+
+# reusable assignments
+assignments:
+  - mandatory: &mandatory
+      text: Attendance Mandatory
+      icon: *icon_warning
+      type: has-text-usf-terra
+
+  - homework1: &homework1
+      text: 'Homework 1'
+      icon: *icon_homework
+      date: 2020-02-14
+
+  - homework1peer: &homework1peer
+      text: 'Homework 1 Feedback'
+      icon: *icon_homework
+      date: 2020-02-21
+      link: 'https://usfca.instructure.com/courses/1590235/assignments/6908002'
+
+  - homework2: &homework2
+      text: 'Homework 2'
+      icon: *icon_homework
+      date: 2020-02-28
+
+  - homework2peer: &homework2peer
+      text: 'Homework 2 Feedback'
+      icon: *icon_homework
+      date: 2020-03-06
+      link: 'https://usfca.instructure.com/courses/1590235/assignments/6908006'
+
+  - homework3: &homework3
+      text: 'Homework 3'
+      icon: *icon_homework
+      date: 2020-04-10
+
+  - homework3peer: &homework3peer
+      text: 'Homework 3 Feedback'
+      icon: *icon_homework
+      date: 2020-04-17
+      link: 'https://usfca.instructure.com/courses/1590235/assignments/6908008'
+
+  - homework4: &homework4
+      text: 'Homework 4'
+      icon: *icon_homework
+      date: 2020-04-24
+
+  - homework4peer: &homework4peer
+      text: 'Homework 4 Feedback'
+      icon: *icon_homework
+      date: 2020-05-01
+      link: 'https://usfca.instructure.com/courses/1590235/assignments/6908018'
+
+
+weeks:
+- week: 1
+  columns:
+    # column 1 (tuesday)
+    - sections:
+      - label: 'Lecture'
+        start: 2020-01-21
+        class: false
+        items:
+          - text: 'Introduction'
+          - text: 'Terminology'
+
+          - icon: *icon_website
+            text: 'Syllabus'
+            link: '/syllabus.html'
+            bump: true
+
+      - label: 'Assigments'
+        align: true
+        items:
+          - text: 'Historic Events'
+            date: 2020-01-24
+            icon: *icon_quiz
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909349'
+
+          - text: 'Piazza Setup'
+            date: 2020-01-24
+            icon: *icon_participation
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909254'
+
+          - text: 'Participation Preferences'
+            date: 2020-01-31
+            icon: *icon_quiz
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909276'
+            bump: true
+
+          - text: 'Midterm Project'
+            bump: true
+            icon: *icon_project
+            type: 'has-text-usf-plum'
+            date: 2020-02-04
+
+    # column 2 (thursday)
+    - sections:
+      - label: 'Lecture'
+        start: 2020-01-23
+        class: false
+        items:
+          - text: 'Perception'
+          - text: 'Optical Illusions'
+
+      - label: 'Lab'
+        start: 2020-01-23
+        align: true
+        items:
+          - text: 'Github Pages'
+            icon: *icon_lab
+            date: 2020-01-23
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909255'
+
+    # column 3 (friday)
+    - sections:
+      - label: 'Deadlines'
+        start: 2020-01-24
+        items:
+          - text: 'Historic Events'
+            date: 2020-01-24
+            icon: *icon_quiz
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909349'
+
+          - text: 'Piazza Setup'
+            date: 2020-01-24
+            icon: *icon_participation
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909254'
+
+      - label: 'Upcoming Dates'
+        align: true
+        items:
+          - text: 'Add Deadline'
+            date: 2020-01-27
+            icon: *icon_date
+
+- week: 2
+  columns:
+    # column 1 (tuesday)
+    - sections:
+      - label: 'Lecture'
+        start: 2020-01-28
+        class: false
+        items:
+          - text: 'Basic Charts and Graphs'
+
+      - label: 'Assigments'
+        align: true
+        items:
+          - <<: *homework1
+
+          - text: 'Current Events'
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909352'
+            icon: *icon_participation
+            date: 2020-03-06
+            bump: true
+
+          - text: 'Campus Events'
+            icon: *icon_participation
+            date: 2020-05-07
+
+    # column 2 (thursday)
+    - sections:
+      - label: 'Lecture'
+        start: 2020-01-30
+        class: false
+        items:
+          - text: 'Tableau Desktop'
+
+      - label: 'Lab'
+        start: 2020-01-30
+        align: true
+        items:
+          - text: 'Tableau'
+            icon: *icon_lab
+            date: 2020-01-30
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909060'
+
+    # column 3 (friday)
+    - sections:
+      - label: 'Deadlines'
+        start: 2020-01-31
+        items:
+          - text: 'Participation Preferences'
+            date: 2020-01-31
+            icon: *icon_quiz
+            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909276'
+
+- week: 3
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-04
+      items:
+        - text: 'Time Series Data'
+
+    - label: 'Deadlines'
+      start: ''
+      align: true
+      items:
+        - text: 'Midterm Groups'
+          date: ''
+          icon: *icon_project
+          type: 'has-text-usf-plum'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-06
+      items:
+        - text: 'Introduction to D3.js'
+
+    - label: 'Lab'
+      start: 2020-02-06
+      align: true
+      items:
+        - text: 'Blockbuilder'
+          icon: *icon_lab
+          date: 2020-02-06
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909074'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-02-07
+      items:
+        - text: 'Presentation Signup'
+          icon: *icon_participation
+          date: 2020-02-07
+
+    - label: 'Upcoming Dates'
+      align: true
+      items:
+        - text: 'Drop Deadline'
+          date: 2020-02-07
+          icon: *icon_date
+
+        - text: 'Census Date'
+          date: 2020-02-07
+          icon: *icon_date
+
+- week: 4
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-11
+      items:
+        - text: 'Multivariate Data'
+
+    - label: 'Assignments'
+      align: true
+      items:
+        - <<: *homework2
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-13
+      items:
+        - text: 'Multivariate Data'
+
+    - label: 'Lab'
+      start: 2020-02-13
+      align: true
+      items:
+        - text: 'Data Wrangling'
+          icon: *icon_lab
+          date: 2020-02-13
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909075'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-02-14
+      items:
+        - <<: *homework1
+
+    - label: 'Assigments'
+      items:
+        - <<: *homework1peer
+
+- week: 5
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-18
+      items:
+        - text: 'Design Principles'
+
+    - label: 'Deadlines'
+      start: ''
+      align: true
+      items:
+        - text: 'Midterm Alpha Release'
+          icon: *icon_project
+          date: ''
+          type: 'has-text-usf-plum'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-20
+      items:
+        - text: 'Evaluation Principles'
+
+    - label: 'Lab'
+      start: 2020-02-20
+      align: true
+      items:
+        - text: 'Redesign'
+          icon: *icon_lab
+          date: 2020-02-20
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909076'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-02-21
+      items:
+        - <<: *homework1peer
+
+- week: 6
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-25
+      items:
+        - text: 'Interactivity'
+
+    - label: 'Assignments'
+      align: true
+      items:
+        - text: Datavis Post
+          icon: *icon_participation
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-02-27
+      items:
+        - text: 'Interactivity'
+
+    - label: 'Lab'
+      start: 2020-02-27
+      align: true
+      items:
+        - text: 'Observable'
+          icon: *icon_lab
+          date: 2020-02-27
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909077'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-02-28
+      items:
+        - <<: *homework2
+
+    - label: 'Assigments'
+      align: true
+      items:
+        - <<: *homework2peer
+
+- week: 7
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-03
+      items:
+        - <<: *mandatory
+        - text: 'Prototype Demonstrations'
+
+    - label: 'Deadlines'
+      start: ''
+      align: true
+      items:
+        - text: 'Midterm Beta Release'
+          date: ''
+          icon: *icon_project
+          type: 'has-text-usf-plum'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-05
+      items:
+        - <<: *mandatory
+        - text: 'Prototype Demonstrations'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-03-06
+      items:
+        - <<: *homework2peer
+
+        - text: 'Current Events'
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909352'
+          icon: *icon_participation
+          date: 2020-03-06
+
+- week: 8
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'No Class'
+      start: 2020-03-10
+      items:
+        - text: Spring Break
+          icon:
+            class: far fa-seedling
+          type: 'has-text-grey-light'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-12
+      items:
+        - text: Spring Break
+          icon:
+            class: far fa-seedling
+          type: 'has-text-grey-light'
+
+- week: 9
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-17
+      items:
+        - <<: *mandatory
+
+        - text: 'Midterm Presentations'
+          icon: *icon_presentation
+
+    - label: 'Deadlines'
+      start: ''
+      align: true
+      items:
+        - text: 'Midterm Final Release'
+          icon: *icon_project
+          date: ''
+          type: 'has-text-usf-plum'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-19
+      items:
+        - <<: *mandatory
+
+        - text: 'Midterm Presentations'
+          icon: *icon_presentation
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Assignments'
+      items:
+        - text: 'Final Project'
+          icon: *icon_project
+          type: 'has-text-usf-plum'
+          date: 2020-03-31
+
+- week: 10
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-24
+      items:
+        - text: 'Geospatial Data'
+
+    - label: 'Assignments'
+      align: true
+      items:
+        - <<: *homework3
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-26
+      items:
+        - text: 'Geospatial Data'
+
+    - label: 'Lab'
+      start: 2020-03-26
+      align: true
+      items:
+        - text: 'Maps'
+          icon: *icon_lab
+          date: 2020-03-26
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909078'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-03-27
+      items:
+        - text: 'Datavis Post 1'
+          icon: *icon_participation
+          date: 2020-03-27
+
+- week: 11
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-03-31
+      items:
+        - text: 'Hierarchical Data'
+
+    - label: 'Deadlines'
+      align: tre
+      start: ''
+      items:
+        - text: 'Final Proposal'
+          icon: *icon_project
+          date: ''
+          type: 'has-text-usf-plum'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-02
+      items:
+        - text: 'Hierarchical Data'
+
+    - label: 'Lab'
+      start: 2020-04-02
+      align: true
+      items:
+        - text: 'Trees'
+          icon: *icon_lab
+          date: 2020-04-02
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909080'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-04-03
+      items:
+        - text: 'Datavis Post 2'
+          icon: *icon_participation
+          date: 2020-04-03
+
+    - label: 'Upcoming Dates'
+      align: true
+      items:
+        - text: 'Withdraw Deadline'
+          type: 'has-text-info'
+          icon: *icon_date
+
+- week: 12
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-07
+      items:
+        - <<: *mandatory
+
+        - text: Presentations
+
+    - label: 'Assignments'
+      align: true
+      items:
+        - <<: *homework4
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'No Class'
+      start: 2020-04-09
+      items:
+        - text: 'Easter Break'
+          type: 'has-text-grey-light'
+          icon:
+            class: 'far fa-rabbit'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-04-10
+      items:
+        - <<: *homework3
+
+    - label: 'Assigments'
+      align: true
+      items:
+        - <<: *homework3peer
+
+- week: 13
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-14
+      items:
+        - text: Graph Data
+
+    - label: 'Deadlines'
+      align: true
+      start: ''
+      items:
+        - text: Final Alpha Release
+          icon: *icon_project
+          date: ''
+          type: 'has-text-usf-plum'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-16
+      items:
+        - text: 'Graph Data'
+
+    - label: 'Lab'
+      start: 2020-04-16
+      align: true
+      items:
+        - text: 'Graphs'
+          icon: *icon_lab
+          date: 2020-04-16
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909084'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-04-17
+      items:
+        - <<: *homework3peer
+
+- week: 14
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-21
+      items:
+        - text: Pending
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-23
+      items:
+        - text: 'Pending'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-04-24
+      items:
+        - <<: *homework4
+
+    - label: 'Assigments'
+      align: true
+      items:
+        - <<: *homework4peer
+
+- week: 15
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-28
+      items:
+        - <<: *mandatory
+
+        - text: Prototype Demonstrations
+
+    - label: 'Deadlines'
+      align: true
+      start: ''
+      items:
+        - text: 'Final Beta Release'
+          icon: *icon_project
+          date: ''
+          type: 'has-text-usf-plum'
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-04-30
+      items:
+        - <<: *mandatory
+
+        - text: 'Prototype Demonstrations'
+
+  # column 3 (friday)
+  - sections:
+    - label: 'Deadlines'
+      start: 2020-05-01
+      items:
+        - <<: *homework4peer
+
+- week: 16
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-05-05
+      items:
+        - text: Pending
+
+  # column 2 (thursday)
+  - sections:
+    - label: 'Lecture'
+      start: 2020-05-07
+      items:
+        - text: 'Pending'
+
+  - sections:
+    - label: 'End of Semester Deadlines'
+      items:
+        - text: 'Piazza Participation 2'
+          icon: *icon_participation
+          date: 2020-05-07
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909258'
+
+        - text: 'On Campus Event (CS)'
+          icon: *icon_participation
+          date: 2020-05-07
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909296'
+          bump: true
+
+        - text: 'On Campus Event (Any)'
+          icon: *icon_participation
+          date: 2020-05-07
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909299'
+
+        - text: 'Off Campus Event'
+          icon: *icon_participation
+          date: 2020-05-07
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909309'
+
+- text: 'Finals'
+  columns:
+  # column 1 (tuesday)
+  - sections:
+    - label: 'Finals'
+      start: 2020-05-12
+      items:
+        - <<: *mandatory
+
+        - text: Project Demonstrations
+          icon: *icon_participation
+
+    - label: 'Deadlines'
+      align: true
+      items:
+        - text: 'Demonstration Video'
+          date: 2020-05-11
+          type: 'has-text-danger'
+          icon: *icon_project
+
+        - text: 'Final Project Release'
+          date: 2020-05-12
+          icon: *icon_project
+          type: 'has-text-usf-plum'
