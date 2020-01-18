@@ -1,0 +1,23 @@
+title: "Data Visualization"
+subtitle: "CS 360/560 &bullet; Spring 2020"
+
+name: "Sophie Engle"
+timezone: "America/Los_Angeles"
+
+# https://help.github.com/en/articles/repository-metadata-on-github-pages
+repository: "usf-cs360-spring2020/usf-cs360-spring2020.github.io"
+github: [metadata]
+
+kramdown:
+  auto_ids: true
+
+include: ["favicon.ico"]
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+permalink: /guides/:title:output_ext
