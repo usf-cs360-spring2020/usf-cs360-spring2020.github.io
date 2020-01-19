@@ -142,6 +142,7 @@ weeks:
             icon: *icon_project
             type: 'has-text-usf-plum'
             date: 2020-02-04
+            link: '/guides/midterm/'
 
     # column 2 (thursday)
     - sections:
@@ -252,6 +253,7 @@ weeks:
           date: ''
           icon: *icon_project
           type: 'has-text-usf-plum'
+          link: '/guides/midterm/midterm-project.html#groups'
 
   # column 2 (thursday)
   - sections:
@@ -352,6 +354,7 @@ weeks:
           icon: *icon_project
           date: ''
           type: 'has-text-usf-plum'
+          link: '/guides/midterm/midterm-website.html#alpha-release'
 
   # column 2 (thursday)
   - sections:
@@ -428,6 +431,7 @@ weeks:
       items:
         - <<: *mandatory
         - text: 'Prototype Demonstrations'
+          link: '/guides/midterm/midterm-feedback.html'
 
     - label: 'Deadlines'
       start: ''
@@ -437,6 +441,7 @@ weeks:
           date: ''
           icon: *icon_project
           type: 'has-text-usf-plum'
+          link: '/guides/midterm/midterm-website.html#beta-release'
 
   # column 2 (thursday)
   - sections:
@@ -445,6 +450,7 @@ weeks:
       items:
         - <<: *mandatory
         - text: 'Prototype Demonstrations'
+          link: '/guides/midterm/midterm-feedback.html'
 
   # column 3 (friday)
   - sections:
@@ -491,6 +497,7 @@ weeks:
 
         - text: 'Midterm Presentations'
           icon: *icon_presentation
+          link: '/guides/midterm/midterm-presentations.html'
 
     - label: 'Deadlines'
       start: ''
@@ -500,6 +507,7 @@ weeks:
           icon: *icon_project
           date: ''
           type: 'has-text-usf-plum'
+          link: '/guides/midterm/midterm-website.html#final-release'
 
   # column 2 (thursday)
   - sections:
@@ -510,6 +518,7 @@ weeks:
 
         - text: 'Midterm Presentations'
           icon: *icon_presentation
+          link: '/guides/midterm/midterm-presentations.html'
 
   # column 3 (friday)
   - sections:
