@@ -1,5 +1,5 @@
 ---
-title: Project Guides
+title: Midterm Project Guides
 navbar: Guides
 layout: default
 ---

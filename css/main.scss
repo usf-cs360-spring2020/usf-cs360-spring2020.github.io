@@ -122,3 +122,14 @@ li p {
 ul.fa-ul li {
   list-style-type: none;
 }
+
+textarea.copy {
+  font-family: $family-monospace;
+  font-size: 0.9em;
+  font-weight: $weight-normal;
+
+  resize: none;
+  overflow: hidden;
+
+  margin-bottom: 1em;
+}

@@ -38,7 +38,12 @@ collections:
     output: true
     permalink: /guides/:collection/:name:output_ext
 
-  projects:
-    title: Project Guides
+  midterm:
+    title: Midterm Project Guides
+    output: true
+    permalink: /guides/:collection/:name:output_ext
+
+  final:
+    title: Final Project Guides
     output: true
     permalink: /guides/:collection/:name:output_ext
