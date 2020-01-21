@@ -111,7 +111,12 @@ weeks:
         class: false
         items:
           - text: 'Introduction'
+            icon: *icon_slides
+            link: 'https://drive.google.com/open?id=0BxYofk0iB_upeWVkazNlemx3T1k'
+
           - text: 'Terminology'
+            icon: *icon_slides
+            link: 'https://drive.google.com/open?id=0BxYofk0iB_upMVQyUmpoYk1lNVk'
 
           - icon: *icon_website
             text: 'Syllabus'
