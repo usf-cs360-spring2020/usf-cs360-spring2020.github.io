@@ -123,6 +123,10 @@ weeks:
             link: '/syllabus.html'
             bump: true
 
+          - text: 'Lecture Recording'
+            icon: *icon_video
+            link: 'https://usfca.zoom.us/rec/share/xJd6EK6h12pIabOK9lnTXKIPD73gT6a8hidMq6YIxBkU4px43jQ8AtU6RP5bPKB4'
+
       - label: 'Assigments'
         align: true
         items:
