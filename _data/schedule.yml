@@ -221,7 +221,13 @@ weeks:
         start: 2020-01-28
         class: false
         items:
-          - text: 'Basic Charts and Graphs'
+          - text: 'Letter Count Bar Chart'
+            icon: *icon_code
+            link: 'https://gist.github.com/sjengle/01c24c71016a97938beae8c778c15911'
+
+          - text: 'Letter Count Bar Chart (Template)'
+            icon: *icon_code
+            link: 'https://gist.github.com/sjengle/bd5ba3847e0d65af55e85b75aa5c0f73'
 
       - label: 'Assigments'
         align: true
@@ -244,6 +250,7 @@ weeks:
         start: 2020-01-30
         class: false
         items:
+          - text: 'Basic Charts and Graphs'
           - text: 'Tableau Desktop'
 
       - label: 'Lab'
