@@ -60,6 +60,7 @@ assignments:
       text: 'Homework 1'
       icon: *icon_homework
       date: 2020-02-14
+      link: '/guides/homework/homework-1.html'
 
   - homework1peer: &homework1peer
       text: 'Homework 1 Feedback'
@@ -71,6 +72,7 @@ assignments:
       text: 'Homework 2'
       icon: *icon_homework
       date: 2020-02-28
+      link: '/guides/homework/homework-2.html'
 
   - homework2peer: &homework2peer
       text: 'Homework 2 Feedback'
@@ -82,6 +84,7 @@ assignments:
       text: 'Homework 3'
       icon: *icon_homework
       date: 2020-04-10
+      link: '/guides/homework/homework-3.html'
 
   - homework3peer: &homework3peer
       text: 'Homework 3 Feedback'
@@ -93,6 +96,7 @@ assignments:
       text: 'Homework 4'
       icon: *icon_homework
       date: 2020-04-24
+      link: '/guides/homework/homework-4.html'
 
   - homework4peer: &homework4peer
       text: 'Homework 4 Feedback'
