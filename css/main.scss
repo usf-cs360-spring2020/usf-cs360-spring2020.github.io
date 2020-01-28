@@ -107,6 +107,10 @@ li p {
   margin-top: 0.8rem;
 }
 
+table.is-auto {
+  width: auto;
+}
+
 @media print {
   .noprint, .noprint * {
       display: none !important;
