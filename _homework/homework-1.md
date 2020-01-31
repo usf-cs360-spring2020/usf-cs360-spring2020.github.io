@@ -6,7 +6,7 @@ key: 2.1
 bump: true
 
 tags:
-  - text: 'Pending'
+  - text: 'Updated'
     type: 'is-primary'
 
 assignments:
@@ -41,17 +41,17 @@ Generally, each image should not exceed 960 pixels by 500 pixels in size. Some e
 
 The letter grade for this homework will be broken down as follows:
 
-| Letter | Requirement |
+| Letter | Requirement <span class="tag is-primary">Updated</span> |
 |:------:|:------------|
-| D | Prototype **3** unique visualizations using Tableau Desktop. |
-| C | D-level requirements plus implement **1** of the Tableau prototypes in D3 version 5. |
-| B | D-level requirements plus implement **2** of the Tableau prototypes in D3 version 5. |
-| A | D-level requirements plus implement **3** of the Tableau prototypes in D3 version 5. |
+| <strike>D</strike> | ~~Prototype **3** unique visualizations using Tableau Desktop.~~ |
+| C | <strike>D-level requirements plus implement **1** of the Tableau prototypes in D3 version 5.</strike><br/>Prototype **3** unique visualizations using Tableau Desktop. |
+| B | D-level requirements plus implement **1** <strike>2</strike> of the Tableau prototypes in D3 version 5. |
+| A | D-level requirements plus implement **2** <strike>3</strike> of the Tableau prototypes in D3 version 5. |
 {: .table .is-hoverable .is-auto }
 
 See below for details on each grade level.
 
-##### D-Level Functionality
+##### C-Level <strike>D-Level</strike> Functionality
 {: .has-text-grey }
 
 Prototype three different basic visualizations of the dataset using Tableau Desktop. Specifically:
@@ -79,7 +79,7 @@ Use the "Dashboards" feature in Tableau to make sure your images will fit within
 
 You must fully meet these requirements before moving on to the next grade level.
 
-##### C-Level Functionality
+##### B-Level <strike>C-Level</strike> Functionality
 {: .has-text-grey }
 
 Implement one of the Tableau prototypes in D3 version 5. Specifically:
@@ -92,15 +92,15 @@ Implement one of the Tableau prototypes in D3 version 5. Specifically:
 
 You must fully meet these requirements before moving on to the next grade level.
 
-##### B-Level Functionality
+##### A-Level <strike>B-Level</strike> Functionality
 {: .has-text-grey }
 
-This has the same requirements as the C-level functionality, except for a second Tableau prototype.
+This has the same requirements as the B-level ~~C-level~~ functionality, except for a second Tableau prototype.
 
-##### A-Level Functionality
+##### <strike>A-Level Functionality</strike>
 {: .has-text-grey }
 
-This has the same requirements as the B-level functionality, except for a third Tableau prototype.
+<strike>This has the same requirements as the B-level functionality, except for a third Tableau prototype.</strike>
 
 ### Writeups
 
