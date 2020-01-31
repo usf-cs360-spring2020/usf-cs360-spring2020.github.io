@@ -262,8 +262,21 @@ weeks:
           # - text: 'Basic Charts and Graphs'
           # - text: 'Tableau Desktop'
 
-            - text: 'Class Canceled'
-              icon: *icon_warning
+          - text: 'Class Canceled'
+            icon: *icon_warning
+
+          - text: 'Letter Count Bar Chart'
+            icon: *icon_code
+            link: 'https://gist.github.com/sjengle/01c24c71016a97938beae8c778c15911'
+            bump: true
+
+          - text: 'Letter Count Bar Chart - Scales'
+            icon: *icon_youtube
+            link: 'https://youtu.be/DiFxUr5OY68'
+
+          - text: 'Letter Count Bar Chart - Enter'
+            icon: *icon_youtube
+            link: 'https://youtu.be/uSS2awybX78'
 
       # - label: 'Lab'
       #   start: 2020-01-30
@@ -291,7 +304,17 @@ weeks:
     - label: 'Lecture'
       start: 2020-02-04
       items:
-        - text: 'Time Series Data'
+        - text: 'Basic Charts and Graphs'
+        - text: 'Tableau Desktop'
+
+    - label: 'Lab'
+      start: 2020-02-04
+      align: true
+      items:
+        - text: 'Tableau'
+          icon: *icon_lab
+          date: 2020-02-04
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909060'
 
     - label: 'Deadlines'
       start: ''
@@ -308,7 +331,7 @@ weeks:
     - label: 'Lecture'
       start: 2020-02-06
       items:
-        - text: 'Introduction to D3.js'
+        - text: 'Time Series Data'
 
     - label: 'Lab'
       start: 2020-02-06
