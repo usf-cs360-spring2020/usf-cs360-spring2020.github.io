@@ -233,6 +233,11 @@ weeks:
             icon: *icon_code
             link: 'https://gist.github.com/sjengle/bd5ba3847e0d65af55e85b75aa5c0f73'
 
+          - text: 'Lecture Recording'
+            icon: *icon_video
+            link: 'https://usfca.zoom.us/rec/share/3P16dLuu235OQ6uW11r_QrEkJdnjeaa80XMdrPUOz0lII4EpSzRWSFTgB4F8Xw5r'
+            bump: true
+
       - label: 'Assigments'
         align: true
         items:
@@ -254,17 +259,20 @@ weeks:
         start: 2020-01-30
         class: false
         items:
-          - text: 'Basic Charts and Graphs'
-          - text: 'Tableau Desktop'
+          # - text: 'Basic Charts and Graphs'
+          # - text: 'Tableau Desktop'
 
-      - label: 'Lab'
-        start: 2020-01-30
-        align: true
-        items:
-          - text: 'Tableau'
-            icon: *icon_lab
-            date: 2020-01-30
-            link: 'https://usfca.instructure.com/courses/1590235/assignments/6909060'
+            - text: 'Class Canceled'
+              icon: *icon_warning
+
+      # - label: 'Lab'
+      #   start: 2020-01-30
+      #   align: true
+      #   items:
+      #     - text: 'Tableau'
+      #       icon: *icon_lab
+      #       date: 2020-01-30
+      #       link: 'https://usfca.instructure.com/courses/1590235/assignments/6909060'
 
     # column 3 (friday)
     - sections:
