@@ -305,7 +305,15 @@ weeks:
       start: 2020-02-04
       items:
         - text: 'Basic Charts and Graphs'
-        - text: 'Tableau Desktop'
+
+        - text: 'Tableau Desktop - Demographics'
+          icon: *icon_code
+          link: 'https://us-west-2b.online.tableau.com/#/site/usfcs360spring2020/workbooks/174436?:origin=card_share_link'
+          bump: true
+
+        - text: 'Tableau Desktop - Events'
+          icon: *icon_code
+          link: 'https://us-west-2b.online.tableau.com/#/site/usfcs360spring2020/workbooks/174985?:origin=card_share_link'
 
     - label: 'Lab'
       start: 2020-02-04
