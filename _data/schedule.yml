@@ -363,12 +363,12 @@ weeks:
 
   # column 3 (friday)
   - sections:
-    - label: 'Deadlines'
-      start: 2020-02-07
-      items:
-        - text: 'Presentation Signup'
-          icon: *icon_participation
-          date: 2020-02-07
+    # - label: 'Deadlines'
+    #   start: 2020-02-07
+    #   items:
+    #     - text: 'Presentation Signup'
+    #       icon: *icon_participation
+    #       date: 2020-02-07
 
     - label: 'Upcoming Dates'
       align: true
