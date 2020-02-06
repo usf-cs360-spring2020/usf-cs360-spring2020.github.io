@@ -350,10 +350,10 @@ weeks:
           date: 2020-02-06
           link: 'https://usfca.instructure.com/courses/1590235/assignments/6911199'
 
-        - text: 'Blockbuilder'
-          icon: *icon_lab
-          date: 2020-02-06
-          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909074'
+        # - text: 'Blockbuilder'
+        #   icon: *icon_lab
+        #   date: 2020-02-06
+        #   link: 'https://usfca.instructure.com/courses/1590235/assignments/6909074'
 
   # column 3 (friday)
   - sections:
