@@ -346,6 +346,11 @@ weeks:
         - text: 'Zillow Affordability Heatmap'
           link: 'https://blockbuilder.org/sjengle/47c5c20a18ec29f4e2b82905bdb7fe95'
           icon: *icon_code
+          bump: true
+
+        - text: 'Zillow Affordability Heatmap (Template)'
+          link: 'https://blockbuilder.org/sjengle/a6ef97f2e4fe7385732222b28ebe72c3'
+          icon: *icon_code
 
     - label: 'Lab'
       start: 2020-02-06
