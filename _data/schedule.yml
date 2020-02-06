@@ -340,6 +340,12 @@ weeks:
       start: 2020-02-06
       items:
         - text: 'Time Series Data'
+          link: 'https://drive.google.com/open?id=0BxYofk0iB_upVFlFUmt6bE90aTQ'
+          icon: *icon_slides
+
+        - text: 'Zillow Affordability Heatmap'
+          link: 'https://blockbuilder.org/sjengle/47c5c20a18ec29f4e2b82905bdb7fe95'
+          icon: *icon_code
 
     - label: 'Lab'
       start: 2020-02-06
