@@ -315,6 +315,11 @@ weeks:
           icon: *icon_code
           link: 'https://us-west-2b.online.tableau.com/#/site/usfcs360spring2020/workbooks/174985?:origin=card_share_link'
 
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/5JFSM67K2H5IE6eX-WyEZZU6NYa_eaa8hyBPrKdfyUcUmRNjHh2rtd_w2GD5fhj0'
+          bump: true
+
     - label: 'Lab'
       start: 2020-02-04
       align: true
@@ -351,6 +356,11 @@ weeks:
         - text: 'Zillow Affordability Heatmap (Template)'
           link: 'https://blockbuilder.org/sjengle/a6ef97f2e4fe7385732222b28ebe72c3'
           icon: *icon_code
+
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/9-ckKpb-011JZ4WUwX7RSot8I9rOX6a8gyMZ-vBenkvweDEAYOB2js8AQodqvfF8'
+          bump: true
 
     - label: 'Lab'
       start: 2020-02-06
