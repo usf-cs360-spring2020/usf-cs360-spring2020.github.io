@@ -407,6 +407,10 @@ weeks:
           icon: *icon_slides
           link: 'https://drive.google.com/open?id=0BxYofk0iB_upWkZiRkVWblFTbWc'
 
+        - text: 'Bubble Charts in Tableau'
+          icon: *icon_website
+          link: 'https://us-west-2b.online.tableau.com/#/site/usfcs360spring2020/workbooks/177770?:origin=card_share_link'
+
     - label: 'Assignments'
       align: true
       items:
