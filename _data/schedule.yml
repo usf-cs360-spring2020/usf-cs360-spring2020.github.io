@@ -404,6 +404,8 @@ weeks:
       start: 2020-02-11
       items:
         - text: 'Multivariate Data'
+          icon: *icon_slides
+          link: 'https://drive.google.com/open?id=0BxYofk0iB_upWkZiRkVWblFTbWc'
 
     - label: 'Assignments'
       align: true
