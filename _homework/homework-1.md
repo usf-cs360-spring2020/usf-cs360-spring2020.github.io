@@ -6,8 +6,8 @@ key: 2.1
 bump: true
 
 tags:
-  - text: 'Updated'
-    type: 'is-primary'
+  - text: 'Due Soon'
+    type: 'is-danger'
 
 assignments:
   - text: 'Homework 1 Functionality'
