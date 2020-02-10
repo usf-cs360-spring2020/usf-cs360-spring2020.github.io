@@ -4,6 +4,10 @@ navbar: Guides
 layout: guides
 key: 1.3
 
+tags:
+- text: 'Pending'
+  type: ''
+
 assignments:
   - text: 'Pending'
     link: '#'
