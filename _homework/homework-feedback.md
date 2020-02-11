@@ -5,7 +5,7 @@ layout: guides
 key: 1.2
 
 tags:
-  - text: 'Updated`'
+  - text: 'Updated'
     type: 'is-primary'
 
 assignments:
