@@ -1,8 +1,8 @@
 ---
-title: Pending
+title: Data Visualization Post
 navbar: Guides
 layout: guides
-key: 100
+key: 1.0
 bump: true
 
 tags:
