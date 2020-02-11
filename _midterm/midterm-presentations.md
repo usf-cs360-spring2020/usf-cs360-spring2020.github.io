@@ -5,8 +5,8 @@ layout: guides
 key: 1.4
 
 tags:
-- text: 'Pending'
-  type: ''
+- text: 'Updated'
+  type: 'is-primary'
 
 assignments:
   - text: 'Midterm Presentation'
