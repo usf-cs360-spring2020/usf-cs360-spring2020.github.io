@@ -92,4 +92,4 @@ See the [Midterm Feedback](midterm-feedback.html) guide for more details.
 
 Each group must present their midterm project in class on week 9 (Tuesday 3/17 and Thursday 3/19). The presentation length must be 5 minutes per person; a 3 person group must present for 15 minutes. The presentation dates will be semi-randomly assigned by the instructor (taking into account the size of groups and length of presentations).
 
-See the [Midterm Presentation](midterm-presentation.html) guide for more details.
+See the [Midterm Presentation](midterm-presentations.html) guide for more details.
