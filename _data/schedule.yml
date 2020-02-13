@@ -421,16 +421,18 @@ weeks:
     - label: 'Lecture'
       start: 2020-02-13
       items:
-        - text: 'Multivariate Data'
+        - text: 'Bubble Chart in D3.js'
+          link: 'https://gist.github.com/sjengle/22051097a8090fa227cbd80cdc2bad03'
+          icon: *icon_code
 
     - label: 'Lab'
       start: 2020-02-13
       align: true
       items:
-        - text: 'Data Wrangling'
+        - text: 'Practicing D3.js'
           icon: *icon_lab
           date: 2020-02-13
-          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909075'
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6909074'
 
   # column 3 (friday)
   - sections:
