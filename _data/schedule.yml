@@ -411,6 +411,11 @@ weeks:
           icon: *icon_website
           link: 'https://us-west-2b.online.tableau.com/#/site/usfcs360spring2020/workbooks/177770?:origin=card_share_link'
 
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/5-Ffd77c1jpJaaPJ6W_tBacvI57oeaa80yMbr6UFz0qhZYPsa4RTGxoT_1ICHqO4'
+          bump: true
+
     - label: 'Assignments'
       align: true
       items:
