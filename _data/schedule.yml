@@ -430,6 +430,12 @@ weeks:
           link: 'https://gist.github.com/sjengle/22051097a8090fa227cbd80cdc2bad03'
           icon: *icon_code
 
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/tN1ec7aqxHFLWqv28H3PWa4oI5T9aaa8gCUb-qdenh0nyRnngJdXPW1vs9Xai2lH'
+          bump: true
+
+
     - label: 'Lab'
       start: 2020-02-13
       align: true
