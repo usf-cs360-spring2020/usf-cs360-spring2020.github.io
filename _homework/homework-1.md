@@ -5,10 +5,6 @@ layout: guides
 key: 2.1
 bump: true
 
-tags:
-  - text: 'Due Soon'
-    type: 'is-danger'
-
 assignments:
   - text: 'Homework 1 Functionality'
     link: 'https://usfca.instructure.com/courses/1590235/assignments/6907999'
