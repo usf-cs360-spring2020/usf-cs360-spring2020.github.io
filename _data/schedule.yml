@@ -464,6 +464,12 @@ weeks:
       start: 2020-02-18
       items:
         - text: 'Design Principles'
+          icon: *icon_slides
+          link: 'https://drive.google.com/open?id=0BxYofk0iB_upSm1QWVk2R2kzak0'
+
+        - text: 'Evaluation Principles'
+          icon: *icon_slides
+          link: 'https://drive.google.com/open?id=0BxYofk0iB_upQVN6UVJuWDNBUEk'
 
     - label: 'Deadlines'
       start: ''
@@ -480,7 +486,14 @@ weeks:
     - label: 'Lecture'
       start: 2020-02-20
       items:
-        - text: 'Evaluation Principles'
+        - text: 'Evaluation Exercises'
+          icon: *icon_slides
+          link: 'https://drive.google.com/open?id=1qZ2c8XkibAL-YuBqZRuq7KDDqb1eH0he'
+
+        - text: 'Gun Deaths in Tableau'
+          bump: true
+          
+        - text: 'Gun Deaths in D3.js'
 
     - label: 'Lab'
       start: 2020-02-20
