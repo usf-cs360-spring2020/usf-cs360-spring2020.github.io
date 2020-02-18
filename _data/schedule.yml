@@ -492,8 +492,14 @@ weeks:
 
         - text: 'Gun Deaths in Tableau'
           bump: true
-          
-        - text: 'Gun Deaths in D3.js'
+
+        - text: 'Gun Deaths in D3.js (Blockbuilder)'
+          icon: *icon_code
+          link: 'https://blockbuilder.org/sjengle/8c2b8064e0e6971a89f0'
+
+        - text: 'Gun Deaths in D3.js (VizHub)'
+          icon: *icon_code
+          link: 'https://vizhub.com/sjengle/5a7cf326924944d8971a5f8b93a8166d'
 
     - label: 'Lab'
       start: 2020-02-20
