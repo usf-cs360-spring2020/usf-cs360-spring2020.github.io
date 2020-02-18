@@ -491,6 +491,8 @@ weeks:
           link: 'https://drive.google.com/open?id=1qZ2c8XkibAL-YuBqZRuq7KDDqb1eH0he'
 
         - text: 'Gun Deaths in Tableau'
+          icon: *icon_website
+          link: 'https://us-west-2b.online.tableau.com/#/site/usfcs360spring2020/workbooks/182054?:origin=card_share_link'
           bump: true
 
         - text: 'Gun Deaths in D3.js (Blockbuilder)'
