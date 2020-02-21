@@ -78,8 +78,9 @@ hr {
 }
 
 strong,
-em {
-  color: inherit;
+em,
+.inherit a {
+  color: inherit !important;
 }
 
 del,

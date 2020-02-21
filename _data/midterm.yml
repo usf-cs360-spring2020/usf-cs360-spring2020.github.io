@@ -2,6 +2,7 @@ chinchillas: &midterm_chinchillas
   text: 'Chinchillas'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-chinchillas/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-chinchillas/">Chinchillas</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=Chinchillas"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Ned Azar'
     - 'Enrique Bascur'
@@ -13,6 +14,7 @@ persimmon: &midterm_persimmon
   text: 'Persimmon'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-persimmon/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-persimmon/">Persimmon</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=Persimmon"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Justine Huynh'
     - 'Ahmed Kaddoura'
@@ -24,6 +26,7 @@ enigma: &midterm_enigma
   text: 'Enigma'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-enigma/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-enigma/">Enigma</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=Enigma"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Angela Chen'
     - 'Nicholas Kebbas'
@@ -35,6 +38,7 @@ windows10: &midterm_windows10
   text: 'Windows 10'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-windows-10/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-windows-10/">Windows 10</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=Windows+10"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Aditya Dixit'
     - 'Arturo Galvan-Alarcon'
@@ -46,6 +50,7 @@ dataviz: &midterm_dataviz
   text: 'DataViz'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-dataviz/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-dataviz/">DataViz</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=DataViz"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Nikhil Bhutani'
     - 'Aryan Choudhary'
@@ -57,6 +62,7 @@ datalization: &midterm_datalization
   text: 'Datalization'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-datalization/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-datalization/">Datalization</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=Datalization"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Ian Granger'
     - 'Caijuan Luo'
@@ -68,6 +74,7 @@ visualizers: &midterm_visualizers
   text: 'Visualizers'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-visualizers/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-visualizers/">Visualizers</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=Visualizers"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Dejan Djokic'
     - 'Parisa Hemmati'
@@ -79,6 +86,7 @@ datasetgo: &midterm_datasetgo
   text: 'DataSetGo'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-datasetgo/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-datasetgo/">DataSetGo</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=DataSetGo"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Dharti Madeka'
     - 'Betty Ozerova'
@@ -90,6 +98,7 @@ colorisfake: &midterm_colorisfake
   text: 'ColorIsFake'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-colorisfake/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-colorisfake/">ColorIsFake</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=ColorIsFake"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Chaitrika Budamagunta'
     - 'Priscilla Hamiter'
@@ -101,6 +110,7 @@ datadmin: &midterm_datadmin
   text: 'datadmin'
   repo: 'https://github.com/usf-cs360-spring2020/midterm-datadmin/'
   link: '<a href="https://usf-cs360-spring2020.github.io/midterm-datadmin/">datadmin</a>'
+  form: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=pp_url&entry.1547426116=datadmin"><i class="fas fa-user-edit"></i></a>'
   team:
     - 'Paul Ke'
     - 'Steven Rokkala'

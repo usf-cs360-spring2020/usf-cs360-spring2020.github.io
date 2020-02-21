@@ -18,6 +18,10 @@ assignments:
   - text: 'Midterm Prototype Feedback'
     link: 'https://usfca.instructure.com/courses/1590235/assignments/6908142'
 
+  - text: 'Midterm Feedback Form'
+    info: '(Google Form)'
+    link: 'https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=sf_link'
+
 blurb: |
   <p>Instead of a midterm exam, all students must complete a midterm group project. This guide describes the midterm prototype feedback process.</p>
 ---
@@ -97,16 +101,19 @@ Everyone just needs to be close enough to hear each other, but does not need to 
 
 ## Feedback
 
+[<i class="fas fa-edit"></i> Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=sf_link)
+{: .button .is-primary .inherit }
+
 Each group must provide feedback for **three groups** on the day they are not presenting. The  **Tuesday** feedback schedule is as follows:
 
 |                | Session 1     | Session 2       | Session 3       |
 | Feedback Group | 4:45p – 5:10p | 5:20pm – 5:45pm | 5:55pm – 5:20pm |
 |:---------------|:--------------|:----------------|:----------------|
-| {{ midterm.datalization.link }} | {{ midterm.chinchillas.link }} | {{ midterm.persimmon.link }}   | {{ midterm.enigma.link }}      |
-| {{ midterm.visualizers.link }}  | {{ midterm.persimmon.link }}   | {{ midterm.enigma.link }}      | {{ midterm.windows10.link }}   |
-| {{ midterm.datasetgo.link }}    | {{ midterm.enigma.link }}      | {{ midterm.windows10.link }}   | {{ midterm.dataviz.link }}     |
-| {{ midterm.colorisfake.link }}  | {{ midterm.windows10.link }}   | {{ midterm.dataviz.link }}     | {{ midterm.chinchillas.link }} |
-| {{ midterm.datadmin.link }}     | {{ midterm.dataviz.link }}     | {{ midterm.chinchillas.link }} | {{ midterm.persimmon.link }}   |
+| {{ midterm.datalization.link }} | {{ midterm.chinchillas.form }} {{ midterm.chinchillas.link }} | {{ midterm.persimmon.form }}  {{ midterm.persimmon.link }}   | {{ midterm.enigma.form }}      {{ midterm.enigma.link }}      |
+| {{ midterm.visualizers.link }}  | {{ midterm.persimmon.form }}   {{ midterm.persimmon.link }}   | {{ midterm.enigma.form }}     {{ midterm.enigma.link }}      | {{ midterm.windows10.form }}   {{ midterm.windows10.link }}   |
+| {{ midterm.datasetgo.link }}    | {{ midterm.enigma.form }}      {{ midterm.enigma.link }}      | {{ midterm.windows10.form }}  {{ midterm.windows10.link }}   | {{ midterm.dataviz.form }}     {{ midterm.dataviz.link }}     |
+| {{ midterm.colorisfake.link }}  | {{ midterm.windows10.form }}   {{ midterm.windows10.link }}   | {{ midterm.dataviz.form }}    {{ midterm.dataviz.link }}     | {{ midterm.chinchillas.form }} {{ midterm.chinchillas.link }} |
+| {{ midterm.datadmin.link }}     | {{ midterm.dataviz.form }}     {{ midterm.dataviz.link }}     | {{ midterm.chinchillas.form }}{{ midterm.chinchillas.link }} | {{ midterm.persimmon.form }}   {{ midterm.persimmon.link }}   |
 {: .table .is-hoverable .is-auto }
 
 For example, in session 1, the {{ midterm.datalization.link }} group will be give feedback for the {{ midterm.chinchillas.link }} group. Then, the {{ midterm.datalization.link }} group will move and give feedback for the {{ midterm.persimmon.link }} group in session 2 starting at 5:20pm. Finally, {{ midterm.datalization.link }} group will be give feedback to the {{ midterm.enigma.link }} group during the last session at 5:55pm. Then, Thursday, the {{ midterm.datalization.link }} will present their project and get feedback from other groups.
@@ -116,18 +123,18 @@ The **Thursday** feedback schedule is as follows:
 |                | Session 1     | Session 2       | Session 3       |
 | Feedback Group | 4:45p – 5:10p | 5:20pm – 5:45pm | 5:55pm – 5:20pm |
 |:---------------|:--------------|:----------------|:----------------|
-| {{ midterm.chinchillas.link }} | {{ midterm.visualizers.link }}  | {{ midterm.datasetgo.link }}    | {{ midterm.colorisfake.link }}  |
-| {{ midterm.persimmon.link }}   | {{ midterm.datasetgo.link }}    | {{ midterm.colorisfake.link }}  | {{ midterm.datadmin.link }}     |
-| {{ midterm.enigma.link }}      | {{ midterm.colorisfake.link }}  | {{ midterm.datadmin.link }}     | {{ midterm.datalization.link }} |
-| {{ midterm.windows10.link }}   | {{ midterm.datadmin.link }}     | {{ midterm.datalization.link }} | {{ midterm.visualizers.link }}  |
-| {{ midterm.dataviz.link }}     | {{ midterm.datalization.link }} | {{ midterm.visualizers.link }}  | {{ midterm.datasetgo.link }}    |
+| {{ midterm.chinchillas.link }} | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  | {{ midterm.datasetgo.form }}    {{ midterm.datasetgo.link }}    | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  |
+| {{ midterm.persimmon.link }}   | {{ midterm.datasetgo.form }}    {{ midterm.datasetgo.link }}    | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  | {{ midterm.datadmin.form }}     {{ midterm.datadmin.link }}     |
+| {{ midterm.enigma.link }}      | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  | {{ midterm.datadmin.form }}     {{ midterm.datadmin.link }}     | {{ midterm.datalization.form }} {{ midterm.datalization.link }} |
+| {{ midterm.windows10.link }}   | {{ midterm.datadmin.form }}     {{ midterm.datadmin.link }}     | {{ midterm.datalization.form }} {{ midterm.datalization.link }} | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  |
+| {{ midterm.dataviz.link }}     | {{ midterm.datalization.form }} {{ midterm.datalization.link }} | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  | {{ midterm.datasetgo.form }}    {{ midterm.datasetgo.link }}    |
 {: .table .is-hoverable .is-auto }
 
 During each feedback session, feedback groups must:
 
   1. Find the assigned presentation group. Look at the schedule above to see which group you are assigned, and at the layout below for where this group will be located.
   2. Load the presentation group project website on your laptop. The website is linked in the schedule above.
-  3. Load the peer feedback rubric for the presentation group in [Midterm Prototype Feedback](https://usfca.instructure.com/courses/1590235/assignments/6908142) assignment on Canvas.
+  3. Load the peer feedback rubric for the presentation group. Canvas cannot support group peer review, so enter your feedback in the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeHDbp9F4aeicWeu-MkQwb830Bar57qcLDQNO-aZne5HWI7aQ/viewform?usp=sf_link) instead. The <i class="fas fa-user-edit"></i> icon in the schedule will auto-fill the group name for you.
   4. During the presentation, ask clarification questions and give verbal feedback.
   5. After the presentation, leave written feedback on Canvas. You will need 5-10 minutes for this process.
 
