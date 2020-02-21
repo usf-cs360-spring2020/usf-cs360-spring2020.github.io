@@ -977,7 +977,7 @@ weeks:
     - label: 'Lecture'
       start: 2020-05-05
       items:
-        - text: Pending
+        - text: Presentations
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video

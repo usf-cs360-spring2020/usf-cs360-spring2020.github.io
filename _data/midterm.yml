@@ -1,0 +1,125 @@
+chinchillas: &midterm_chinchillas
+  text: 'Chinchillas'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-chinchillas/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-chinchillas/">Chinchillas</a>'
+  team:
+    - 'Ned Azar'
+    - 'Enrique Bascur'
+    - 'Jaden Hamid'
+  proto: 2020-03-03
+  final: 2020-03-17
+
+persimmon: &midterm_persimmon
+  text: 'Persimmon'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-persimmon/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-persimmon/">Persimmon</a>'
+  team:
+    - 'Justine Huynh'
+    - 'Ahmed Kaddoura'
+    - 'Kai Middlebrook'
+  proto: 2020-03-03
+  final: 2020-03-17
+
+enigma: &midterm_enigma
+  text: 'Enigma'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-enigma/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-enigma/">Enigma</a>'
+  team:
+    - 'Angela Chen'
+    - 'Nicholas Kebbas'
+    - 'Drew-Joseph Noma'
+  proto: 2020-03-03
+  final: 2020-03-17
+
+windows10: &midterm_windows10
+  text: 'Windows 10'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-windows-10/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-windows-10/">Windows 10</a>'
+  team:
+    - 'Aditya Dixit'
+    - 'Arturo Galvan-Alarcon'
+    - 'Alejandro Garcia'
+  proto: 2020-03-03
+  final: 2020-03-17
+
+dataviz: &midterm_dataviz
+  text: 'DataViz'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-dataviz/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-dataviz/">DataViz</a>'
+  team:
+    - 'Nikhil Bhutani'
+    - 'Aryan Choudhary'
+    - 'Zhenzhen Wang'
+  proto: 2020-03-03
+  final: 2020-03-17
+
+datalization: &midterm_datalization
+  text: 'Datalization'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-datalization/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-datalization/">Datalization</a>'
+  team:
+    - 'Ian Granger'
+    - 'Caijuan Luo'
+    - 'Jake Zhong'
+  proto: 2020-03-05
+  final: 2020-03-19
+
+visualizers: &midterm_visualizers
+  text: 'Visualizers'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-visualizers/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-visualizers/">Visualizers</a>'
+  team:
+    - 'Dejan Djokic'
+    - 'Parisa Hemmati'
+    - 'Pezanne Khambatta'
+  proto: 2020-03-05
+  final: 2020-03-19
+
+datasetgo: &midterm_datasetgo
+  text: 'DataSetGo'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-datasetgo/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-datasetgo/">DataSetGo</a>'
+  team:
+    - 'Dharti Madeka'
+    - 'Betty Ozerova'
+    - 'Edmund Wong'
+  proto: 2020-03-05
+  final: 2020-03-19
+
+colorisfake: &midterm_colorisfake
+  text: 'ColorIsFake'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-colorisfake/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-colorisfake/">ColorIsFake</a>'
+  team:
+    - 'Chaitrika Budamagunta'
+    - 'Priscilla Hamiter'
+    - 'Evelyn Matson'
+  proto: 2020-03-05
+  final: 2020-03-19
+
+datadmin: &midterm_datadmin
+  text: 'datadmin'
+  repo: 'https://github.com/usf-cs360-spring2020/midterm-datadmin/'
+  link: '<a href="https://usf-cs360-spring2020.github.io/midterm-datadmin/">datadmin</a>'
+  team:
+    - 'Paul Ke'
+    - 'Steven Rokkala'
+    - 'Alex Wang'
+  proto: 2020-03-05
+  final: 2020-03-19
+
+groups:
+  - *midterm_chinchillas
+  - *midterm_persimmon
+  - *midterm_enigma
+  - *midterm_windows10
+  - *midterm_dataviz
+  - *midterm_datalization
+  - *midterm_visualizers
+  - *midterm_datasetgo
+  - *midterm_colorisfake
+  - *midterm_datadmin
+
+feedback:
+  tue: 2020-03-03
+  thu: 2020-03-05
