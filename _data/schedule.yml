@@ -517,10 +517,10 @@ weeks:
           icon: *icon_code
           link: 'https://vizhub.com/sjengle/5a7cf326924944d8971a5f8b93a8166d'
 
-        # - text: 'Lecture Recording'
-        #   icon: *icon_video
-        #   link: ''
-        #   bump: true
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/uswlCLvUqDtLUreSuH71aoIeJ5uieaa8hycY-qUOnkjnYIHgruQ7DSgFBpLiB3c3'
+          bump: true
 
     - label: 'Lab'
       start: 2020-02-20
