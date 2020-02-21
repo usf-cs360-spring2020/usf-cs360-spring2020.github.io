@@ -5,8 +5,8 @@ layout: guides
 key: 1.3
 
 tags:
-- text: 'Pending'
-  type: ''
+- text: 'Updated'
+  type: 'is-primary'
 
 assignments:
   - text: 'Midterm Beta Release'
