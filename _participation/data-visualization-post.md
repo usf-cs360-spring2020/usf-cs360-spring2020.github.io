@@ -6,12 +6,30 @@ key: 1.0
 bump: true
 
 tags:
-  - text: 'Pending'
-    type: ''
+  - text: 'Updated'
+    type: 'is-primary'
 
 assignments:
-  - text: 'Pending'
-    link: '#'
+  - text: 'Data Vis Post Topic'
+    link: 'https://usfca.instructure.com/courses/1590235/discussion_topics/7866297'
+    info: '(Undergraduate)'
+
+  - text: 'Data Vis Post Topic'
+    link: 'https://usfca.instructure.com/courses/1590235/discussion_topics/7866298'
+    info: '(Graduate)'
+
+  - text: 'Data Vis Post 1'
+    link: 'https://usfca.instructure.com/courses/1590235/assignments/6925183'
+    info: '(Due 4/3)'
+
+  - text: 'Data Vis Post 2'
+    link: 'https://usfca.instructure.com/courses/1590235/assignments/6925184'
+    info: '(Due 5/7)'
+
+  - text: 'Data Vis Post Presentation Date'
+
+  - text: 'Data Vis Post Presentation'
+
 
 blurb: |
   <p>Students must prepare at least one post (or notebook) on a topic in data visualization. This guide provides details on those datavis posts.</p>
@@ -37,12 +55,16 @@ Undergraduate students in CS 360 may choose any topic related to data visualizat
 
 Graduate students in CS 560 must choose a research paper related to data visualization published in an **academic** venue such as an academic conference or journal. This does not include white papers produced by companies. Each student must select a unique research paper. Students are encouraged to choose a research paper that (a) the authors have posted a free PDF, (b) there is an available online demo, and/or media (such as high-resolution screenshots), and (c) there are presentation or demonstration videos publicly available. The [Open Access VIS](http://oavis.org/) resource may be especially helpful for selecting a paper.
 
+<i class="fas fa-info-circle"></i>
+Notice that the final project proposal is due around the same time as the datavis post topic. The two *may* be related if you want!
+{: .notification }
+
 #### Submitting Topics
 {: .has-text-grey }
 
-Undergraduate students should submit their topics in the [Pending](#) discussion board on Canvas. Before posting a topic, make sure another student has *not* yet selected that topic. When posting a topic, please be as specific as possible. Do not post a broad area such as "sports visualization"; post a more specific topic area such as "basketball player statistics" instead. That allows other students to post about other topics that fall within the broad category of sports visualization.
+Undergraduate students should submit their topics in the [Data Vis Post Topic (Undergrad)](https://usfca.instructure.com/courses/1590235/discussion_topics/7866297) discussion board on Canvas. Before posting a topic, make sure another student has *not* yet selected that topic. When posting a topic, please be as specific as possible. Do not post a broad area such as "sports visualization"; post a more specific topic area such as "basketball player statistics" instead. That allows other students to post about other topics that fall within the broad category of sports visualization.
 
-Graduate students should submit their selected research paper in the [Pending](#) discussion board on Canvas. Before posting a research paper, make sure another student has *not* yet selected that paper. When posting the paper, include all of the relevant details such as paper title, paper authors, the conference or journal that published the paper, and the year.
+Graduate students should submit their selected research paper in the [Data Vis Post Topic (Graduate)](https://usfca.instructure.com/courses/1590235/discussion_topics/7866298) discussion board on Canvas. Before posting a research paper, make sure another student has *not* yet selected that paper. When posting the paper, include all of the relevant details such as paper title, paper authors, the conference or journal that published the paper, and the year.
 
 Students that are completing two notebooks instead of presenting should post both topics at the same time.
 
@@ -92,9 +114,9 @@ Make it clear when you are using text, figures, or other media that you did not 
 
 ## Submission
 
-Students must submit a link to their published, public datavis notebooks via the [Pending](#) assignment in Canvas. The link may be submitted early (strongly encouraged), without affecting the ability to continuing work on that post up until the deadline.
+Students must submit a link to their published, public datavis notebooks via the [Data Vis Post 1](https://usfca.instructure.com/courses/1590235/assignments/6925183) assignment in Canvas. The link may be submitted early (strongly encouraged), without affecting the ability to continuing work on that post up until the deadline.
 
-Students that are completing two notebooks instead of presenting should see an additional [Pending](#) assignment in Canvas to submit their second post.
+Students that are completing two notebooks instead of presenting should see an additional [Data Vis Post 2](https://usfca.instructure.com/courses/1590235/assignments/6925184) assignment in Canvas to submit their second post.
 
 Note that if your Observable notebook link looks something like this:
 
@@ -115,3 +137,8 @@ https://observablehq.com/@observablehq/how-saving-works
 Students chose to either create two data visualization posts or present their notebook. Notebook presentations (including motivation and Q&A) should be 10 minutes.
 
 See the [Presentation Requirements](/guides/participation/presentation-requirements.html) guide for how presentations are graded. Notebook presentations *do not* require preparation of additional content. It is expected to present from the notebook itself, scrolling through the sections and media already included in the notebook.
+
+#### Presentation Dates
+{: .has-text-grey }
+
+Pending

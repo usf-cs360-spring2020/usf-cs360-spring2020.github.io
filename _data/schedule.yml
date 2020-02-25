@@ -572,6 +572,7 @@ weeks:
       items:
         - text: Datavis Post
           icon: *icon_participation
+          link: '/guides/participation/data-visualization-post.html'
 
   # column 2 (thursday)
   - sections:
@@ -616,6 +617,7 @@ weeks:
         - <<: *mandatory
         - text: 'Prototype Demonstrations'
           link: '/guides/midterm/midterm-feedback.html'
+          icon: *icon_participation
 
     - label: 'Deadlines'
       start: ''
@@ -635,6 +637,7 @@ weeks:
         - <<: *mandatory
         - text: 'Prototype Demonstrations'
           link: '/guides/midterm/midterm-feedback.html'
+          icon: *icon_participation
 
   # column 3 (friday)
   - sections:
@@ -758,8 +761,9 @@ weeks:
     - label: 'Deadlines'
       start: 2020-03-27
       items:
-        - text: 'Datavis Post 1'
+        - text: 'Datavis Post Topic(s)'
           icon: *icon_participation
+          link: 'https://usfca.instructure.com/courses/1590235/discussion_topics'
           date: 2020-03-27
 
 - week: 11
@@ -811,9 +815,10 @@ weeks:
     - label: 'Deadlines'
       start: 2020-04-03
       items:
-        - text: 'Datavis Post 2'
+        - text: 'Datavis Post 1'
           icon: *icon_participation
           date: 2020-04-03
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6925183'
 
     - label: 'Upcoming Dates'
       align: true
@@ -829,9 +834,9 @@ weeks:
     - label: 'Lecture'
       start: 2020-04-07
       items:
-        - <<: *mandatory
+        # - <<: *mandatory
 
-        - text: Presentations
+        - text: 'Pending'
 
     - label: 'Assignments'
       align: true
@@ -918,7 +923,7 @@ weeks:
     - label: 'Lecture'
       start: 2020-04-21
       items:
-        - text: Pending
+        - text: 'Pending'
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
@@ -992,7 +997,7 @@ weeks:
     - label: 'Lecture'
       start: 2020-05-05
       items:
-        - text: Presentations
+        - text: 'Pending'
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
@@ -1034,6 +1039,12 @@ weeks:
           icon: *icon_participation
           date: 2020-05-07
           link: 'https://usfca.instructure.com/courses/1590235/assignments/6909309'
+
+        - text: 'Datavis Post 2'
+          icon: *icon_participation
+          date: 2020-05-07
+          bump: true
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6925184'
 
 - text: 'Finals'
   columns:
