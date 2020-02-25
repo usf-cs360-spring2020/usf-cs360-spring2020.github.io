@@ -7,7 +7,7 @@ bump: true
 
 tags:
   - text: 'Pending'
-    type: 'is-primary'
+    type: ''
 
 assignments:
   - text: 'Pending'

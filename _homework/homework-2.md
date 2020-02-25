@@ -4,10 +4,6 @@ navbar: Guides
 layout: guides
 key: 2.2
 
-tags:
-  - text: 'Updated'
-    type: 'is-primary'
-
 assignments:
 - text: 'Homework 2 Functionality'
   link: 'https://usfca.instructure.com/courses/1590235/assignments/6908005'
