@@ -63,5 +63,3 @@ While the requirements above list hard cutoffs (e.g. no more than 25% over time,
 Note that running overtime may have consequences for other categories. For example, it may prevent some of the required content from being covered and hurt the overall delivery of the presentation.
 
 See the individual presentation assignments for specific requirements for these categories.
-
-## Extra Credit
