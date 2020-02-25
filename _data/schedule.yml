@@ -546,6 +546,21 @@ weeks:
       start: 2020-02-25
       items:
         - text: 'Interactivity'
+          icon: *icon_slides
+          link: 'https://drive.google.com/open?id=0BxYofk0iB_upWnFkc0VHM0oxNDA'
+
+        - text: 'Observable User Guide'
+          icon: *icon_website
+          link: 'https://observablehq.com/@observablehq/user-manual?collection=@observablehq/introduction'
+          bump: true
+
+        - text: 'Intro to D3.js in Observable'
+          icon: *icon_website
+          link: 'https://observablehq.com/d/28ba93f58fb82f49'
+
+        - text: 'Interactive Scatterplot in Observable'
+          icon: *icon_code
+          link: 'https://observablehq.com/collection/@sjengle/interactive-scatterplot'
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
