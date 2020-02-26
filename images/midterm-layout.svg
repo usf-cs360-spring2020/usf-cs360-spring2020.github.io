@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-276.5 1313.5 1702.6556 1505.4443">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-276.5 1313.5 1702.6556 1505.4443" width="1702.6556" height="1505.4443">
   <defs>
     <font-face font-family="Helvetica Neue" font-size="26" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
@@ -23,10 +23,10 @@
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.13
-    <dc:date>2020-02-20 18:58:11 +0000</dc:date>
+  <metadata> Produced by OmniGraffle 7.13 
+    <dc:date>2020-02-26 18:10:34 +0000</dc:date>
   </metadata>
-  <g id="Canvas_1" fill="none" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1">
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
     <title>Canvas 1</title>
     <g id="Canvas_1: Layer 1">
       <title>Layer 1</title>
@@ -119,8 +119,8 @@
         <circle cx="0" cy="1698" r="168.000268447519" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         <text transform="translate(-129.4 1646.7938)" fill="black">
           <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="black" x="85.82799" y="23">Group 1</tspan>
-          <tspan font-family="Helvetica Neue" font-size="30" font-weight="400" fill="black" x="18.879994" y="57.672">Tue:</tspan>
-          <tspan font-family="Helvetica Neue" font-size="30" font-weight="700" fill="black" y="57.672"> Chinchillas</tspan>
+          <tspan font-family="Helvetica Neue" font-size="30" font-weight="400" fill="black" x="19.644994" y="57.672">Tue: </tspan>
+          <tspan font-family="Helvetica Neue" font-size="30" font-weight="700" fill="black" y="57.672">DataSetGo</tspan>
           <tspan font-family="Helvetica Neue" font-size="30" font-weight="400" fill="black" x="10.809994" y="94.54221">Thu:</tspan>
           <tspan font-family="Helvetica Neue" font-size="30" font-weight="700" fill="black" y="94.54221"> Datalization</tspan>
         </text>
@@ -165,8 +165,8 @@
           <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="black" x="85.82799" y="23">Group 3</tspan>
           <tspan font-family="Helvetica Neue" font-size="30" font-weight="400" fill="black" x="43.584994" y="57.672">Tue: </tspan>
           <tspan font-family="Helvetica Neue" font-size="30" font-weight="700" fill="black" y="57.672">Enigma</tspan>
-          <tspan font-family="Helvetica Neue" font-size="30" font-weight="400" fill="black" x="17.979994" y="94.54221">Thu: </tspan>
-          <tspan font-family="Helvetica Neue" font-size="30" font-weight="700" fill="black" y="94.54221">DataSetGo</tspan>
+          <tspan font-family="Helvetica Neue" font-size="30" font-weight="400" fill="black" x="17.214994" y="94.54221">Thu: </tspan>
+          <tspan font-family="Helvetica Neue" font-size="30" font-weight="700" fill="black" y="94.54221">Chinchillas</tspan>
         </text>
       </g>
     </g>

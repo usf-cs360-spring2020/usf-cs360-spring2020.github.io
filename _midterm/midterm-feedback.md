@@ -70,11 +70,11 @@ Each group must lead **25 minute** presentation and discussion of their project 
 
 | Tuesday 3/03   | Thursday 3/05  |
 |:---------------|:---------------|
-| {{ midterm.chinchillas.link }} | {{ midterm.datalization.link }} |
-| {{ midterm.persimmon.link }}   | {{ midterm.visualizers.link }} |
-| {{ midterm.enigma.link }}      | {{ midterm.datasetgo.link }} |
-| {{ midterm.windows10.link }}   | {{ midterm.colorisfake.link }} |
-| {{ midterm.dataviz.link }}     | {{ midterm.datadmin.link }} |
+| {{ midterm.datasetgo.link }}   | {{ midterm.datalization.link }} |
+| {{ midterm.persimmon.link }}   | {{ midterm.visualizers.link }}  |
+| {{ midterm.enigma.link }}      | {{ midterm.chinchillas.link }}  |
+| {{ midterm.windows10.link }}   | {{ midterm.colorisfake.link }}  |
+| {{ midterm.dataviz.link }}     | {{ midterm.datadmin.link }}     |
 {: .table .is-hoverable .is-auto }
 
 During the presentation, groups should start with a brief overview of the project theme. Make sure the feedback group is able to properly load the project website. Then, for each visualization, explain the following:
@@ -109,11 +109,11 @@ Each group must provide feedback for **three groups** on the day they are not pr
 |                | Session 1     | Session 2       | Session 3       |
 | Feedback Group | 4:45p – 5:10p | 5:20pm – 5:45pm | 5:55pm – 5:20pm |
 |:---------------|:--------------|:----------------|:----------------|
-| {{ midterm.datalization.link }} | {{ midterm.chinchillas.form }} {{ midterm.chinchillas.link }} | {{ midterm.persimmon.form }}  {{ midterm.persimmon.link }}   | {{ midterm.enigma.form }}      {{ midterm.enigma.link }}      |
-| {{ midterm.visualizers.link }}  | {{ midterm.persimmon.form }}   {{ midterm.persimmon.link }}   | {{ midterm.enigma.form }}     {{ midterm.enigma.link }}      | {{ midterm.windows10.form }}   {{ midterm.windows10.link }}   |
-| {{ midterm.datasetgo.link }}    | {{ midterm.enigma.form }}      {{ midterm.enigma.link }}      | {{ midterm.windows10.form }}  {{ midterm.windows10.link }}   | {{ midterm.dataviz.form }}     {{ midterm.dataviz.link }}     |
-| {{ midterm.colorisfake.link }}  | {{ midterm.windows10.form }}   {{ midterm.windows10.link }}   | {{ midterm.dataviz.form }}    {{ midterm.dataviz.link }}     | {{ midterm.chinchillas.form }} {{ midterm.chinchillas.link }} |
-| {{ midterm.datadmin.link }}     | {{ midterm.dataviz.form }}     {{ midterm.dataviz.link }}     | {{ midterm.chinchillas.form }}{{ midterm.chinchillas.link }} | {{ midterm.persimmon.form }}   {{ midterm.persimmon.link }}   |
+| {{ midterm.datalization.link }} | {{ midterm.datasetgo.form }} {{ midterm.datasetgo.link }}   | {{ midterm.persimmon.form }}  {{ midterm.persimmon.link }}   | {{ midterm.enigma.form }}      {{ midterm.enigma.link }}      |
+| {{ midterm.visualizers.link }}  | {{ midterm.persimmon.form }} {{ midterm.persimmon.link }}   | {{ midterm.enigma.form }}     {{ midterm.enigma.link }}      | {{ midterm.windows10.form }}   {{ midterm.windows10.link }}   |
+| {{ midterm.chinchillas.link }}  | {{ midterm.enigma.form }}    {{ midterm.enigma.link }}      | {{ midterm.windows10.form }}  {{ midterm.windows10.link }}   | {{ midterm.dataviz.form }}     {{ midterm.dataviz.link }}     |
+| {{ midterm.colorisfake.link }}  | {{ midterm.windows10.form }} {{ midterm.windows10.link }}   | {{ midterm.dataviz.form }}    {{ midterm.dataviz.link }}     | {{ midterm.datasetgo.form }}   {{ midterm.datasetgo.link }}   |
+| {{ midterm.datadmin.link }}     | {{ midterm.dataviz.form }}   {{ midterm.dataviz.link }}     | {{ midterm.datasetgo.form }}  {{ midterm.datasetgo.link }}   | {{ midterm.persimmon.form }}   {{ midterm.persimmon.link }}   |
 {: .table .is-hoverable .is-auto }
 
 For example, in session 1, the {{ midterm.datalization.link }} group will be give feedback for the {{ midterm.chinchillas.link }} group. Then, the {{ midterm.datalization.link }} group will move and give feedback for the {{ midterm.persimmon.link }} group in session 2 starting at 5:20pm. Finally, {{ midterm.datalization.link }} group will be give feedback to the {{ midterm.enigma.link }} group during the last session at 5:55pm. Then, Thursday, the {{ midterm.datalization.link }} will present their project and get feedback from other groups.
@@ -123,11 +123,11 @@ The **Thursday** feedback schedule is as follows:
 |                | Session 1     | Session 2       | Session 3       |
 | Feedback Group | 4:45p – 5:10p | 5:20pm – 5:45pm | 5:55pm – 5:20pm |
 |:---------------|:--------------|:----------------|:----------------|
-| {{ midterm.chinchillas.link }} | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  | {{ midterm.datasetgo.form }}    {{ midterm.datasetgo.link }}    | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  |
-| {{ midterm.persimmon.link }}   | {{ midterm.datasetgo.form }}    {{ midterm.datasetgo.link }}    | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  | {{ midterm.datadmin.form }}     {{ midterm.datadmin.link }}     |
+| {{ midterm.datasetgo.link }}   | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  | {{ midterm.chinchillas.form }}  {{ midterm.chinchillas.link }}  | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  |
+| {{ midterm.persimmon.link }}   | {{ midterm.chinchillas.form }}  {{ midterm.chinchillas.link }}  | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  | {{ midterm.datadmin.form }}     {{ midterm.datadmin.link }}     |
 | {{ midterm.enigma.link }}      | {{ midterm.colorisfake.form }}  {{ midterm.colorisfake.link }}  | {{ midterm.datadmin.form }}     {{ midterm.datadmin.link }}     | {{ midterm.datalization.form }} {{ midterm.datalization.link }} |
 | {{ midterm.windows10.link }}   | {{ midterm.datadmin.form }}     {{ midterm.datadmin.link }}     | {{ midterm.datalization.form }} {{ midterm.datalization.link }} | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  |
-| {{ midterm.dataviz.link }}     | {{ midterm.datalization.form }} {{ midterm.datalization.link }} | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  | {{ midterm.datasetgo.form }}    {{ midterm.datasetgo.link }}    |
+| {{ midterm.dataviz.link }}     | {{ midterm.datalization.form }} {{ midterm.datalization.link }} | {{ midterm.visualizers.form }}  {{ midterm.visualizers.link }}  | {{ midterm.chinchillas.form }}  {{ midterm.chinchillas.link }}  |
 {: .table .is-hoverable .is-auto }
 
 During each feedback session, feedback groups must:
