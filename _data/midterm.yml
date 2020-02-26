@@ -7,7 +7,7 @@ chinchillas: &midterm_chinchillas
     - 'Ned Azar'
     - 'Enrique Bascur'
     - 'Jaden Hamid'
-  proto: 2020-03-03
+  proto: 2020-03-05
   final: 2020-03-17
 
 persimmon: &midterm_persimmon
@@ -91,7 +91,7 @@ datasetgo: &midterm_datasetgo
     - 'Dharti Madeka'
     - 'Betty Ozerova'
     - 'Edmund Wong'
-  proto: 2020-03-05
+  proto: 2020-03-03
   final: 2020-03-19
 
 colorisfake: &midterm_colorisfake
