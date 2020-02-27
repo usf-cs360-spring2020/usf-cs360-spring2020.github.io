@@ -579,7 +579,14 @@ weeks:
     - label: 'Lecture'
       start: 2020-02-27
       items:
-        - text: 'Interactivity'
+        - text: 'Interactive Scatterplot'
+          icon: *icon_code
+          link: 'https://observablehq.com/collection/@sjengle/interactive-scatterplot'
+
+        - text: 'Linked Views'
+          icon: *icon_code
+          link: 'https://observablehq.com/collection/@sjengle/linked-views'
+
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
