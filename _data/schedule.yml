@@ -562,10 +562,10 @@ weeks:
           icon: *icon_code
           link: 'https://observablehq.com/collection/@sjengle/interactive-scatterplot'
 
-        # - text: 'Lecture Recording'
-        #   icon: *icon_video
-        #   link: ''
-        #   bump: true
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/_uApDq2h9yRLS6PDz2Dxcb8KEYbfT6a81iRN-_QKzk_kuhXMae4ESynTxkhsP0lT'
+          bump: true
 
     - label: 'Assignments'
       align: true
@@ -590,7 +590,7 @@ weeks:
       start: 2020-02-27
       align: true
       items:
-        - text: 'Observable'
+        - text: 'Observable and Interactivity'
           icon: *icon_lab
           date: 2020-02-27
           link: 'https://usfca.instructure.com/courses/1590235/assignments/6909077'
