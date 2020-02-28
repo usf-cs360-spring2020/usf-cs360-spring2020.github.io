@@ -996,6 +996,11 @@ weeks:
           icon:
             class: 'fad fa-star'
 
+        - text: 'Shirley Wu'
+          icon:
+            class: ''
+          link: 'https://twitter.com/sxywu'
+
         # - text: 'Lecture Recording'
         #   icon: *icon_video
         #   link: ''
