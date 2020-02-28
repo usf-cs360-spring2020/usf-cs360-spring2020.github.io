@@ -587,11 +587,10 @@ weeks:
           icon: *icon_code
           link: 'https://observablehq.com/collection/@sjengle/linked-views'
 
-
-        # - text: 'Lecture Recording'
-        #   icon: *icon_video
-        #   link: ''
-        #   bump: true
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/y_5qCYDo2yRIXM_D2mvUZ7AnHaP4T6a82iAcrvBZnUp3kVtraqQL6OqVU5t1yIge'
+          bump: true
 
     - label: 'Lab'
       start: 2020-02-27
