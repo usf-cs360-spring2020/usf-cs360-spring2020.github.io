@@ -772,6 +772,11 @@ weeks:
           link: 'https://usfca.instructure.com/courses/1590235/discussion_topics'
           date: 2020-03-27
 
+        - text: 'Presentation Signup'
+          icon: *icon_participation
+          date: 2020-03-27
+          link: 'https://usfca.instructure.com/courses/1590235/assignments/6925683'
+
 - week: 11
   columns:
   # column 1 (tuesday)
