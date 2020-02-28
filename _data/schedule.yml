@@ -840,9 +840,27 @@ weeks:
     - label: 'Lecture'
       start: 2020-04-07
       items:
-        # - <<: *mandatory
+        - <<: *mandatory
 
-        - text: 'Pending'
+        - text: 'Presentation 01'
+          icon: *icon_presentation
+
+        - text: 'Presentation 02'
+          icon: *icon_presentation
+
+        - text: 'Presentation 03'
+          icon: *icon_presentation
+
+        - text: 'Presentation 04'
+          icon: *icon_presentation
+
+        - text: 'Distribution Data'
+          bump: true
+
+        # - text: 'Lecture Recording'
+        #   icon: *icon_video
+        #   link: ''
+        #   bump: true
 
     - label: 'Assignments'
       align: true
@@ -929,7 +947,22 @@ weeks:
     - label: 'Lecture'
       start: 2020-04-21
       items:
-        - text: 'Pending'
+        - <<: *mandatory
+
+        - text: 'Presentation 05'
+          icon: *icon_presentation
+
+        - text: 'Presentation 06'
+          icon: *icon_presentation
+
+        - text: 'Presentation 07'
+          icon: *icon_presentation
+
+        - text: 'Presentation 08'
+          icon: *icon_presentation
+
+        - text: 'Uncertainty Data'
+          bump: true
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
@@ -941,7 +974,22 @@ weeks:
     - label: 'Lecture'
       start: 2020-04-23
       items:
-        - text: 'Pending'
+        - <<: *mandatory
+
+        - text: 'Presentation 09'
+          icon: *icon_presentation
+
+        - text: 'Presentation 10'
+          icon: *icon_presentation
+
+        - text: 'Presentation 11'
+          icon: *icon_presentation
+
+        - text: 'Guest Speaker Q&amp;A'
+          bump: true
+          type: 'has-text-primary has-text-weight-bold'
+          icon:
+            class: 'fad fa-star'
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
@@ -1003,7 +1051,22 @@ weeks:
     - label: 'Lecture'
       start: 2020-05-05
       items:
-        - text: 'Pending'
+        - <<: *mandatory
+
+        - text: 'Presentation 12'
+          icon: *icon_presentation
+
+        - text: 'Presentation 13'
+          icon: *icon_presentation
+
+        - text: 'Presentation 14'
+          icon: *icon_presentation
+
+        - text: 'Presentation 15'
+          icon: *icon_presentation
+
+        - text: 'Text Data'
+          bump: true
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
@@ -1015,7 +1078,22 @@ weeks:
     - label: 'Lecture'
       start: 2020-05-07
       items:
-        - text: 'Pending'
+        - <<: *mandatory
+
+        - text: 'Presentation 16'
+          icon: *icon_presentation
+
+        - text: 'Presentation 17'
+          icon: *icon_presentation
+
+        - text: 'Presentation 18'
+          icon: *icon_presentation
+
+        - text: 'Presentation 19'
+          icon: *icon_presentation
+
+        - text: 'Visualization Research'
+          bump: true
 
         # - text: 'Lecture Recording'
         #   icon: *icon_video
