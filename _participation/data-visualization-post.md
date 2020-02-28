@@ -27,12 +27,15 @@ assignments:
     info: '(Due 5/7)'
 
   - text: 'Data Vis Post Presentation Date'
+    link: 'https://usfca.instructure.com/courses/1590235/assignments/6925683'
+    info: '(Due 4/3)'
 
   - text: 'Data Vis Post Presentation'
-
+    link: 'https://usfca.instructure.com/courses/1590235/assignments/6925684'
 
 blurb: |
   <p>Students must prepare at least one post (or notebook) on a topic in data visualization. This guide provides details on those datavis posts.</p>
+
 ---
 
 ## Required Tools
@@ -141,4 +144,28 @@ See the [Presentation Requirements](/guides/participation/presentation-requireme
 #### Presentation Dates
 {: .has-text-grey }
 
-Pending
+See the [Data Vis Presentation Signup]() assignment in Canvas for how to sign up for a specific presentation date. The current presentation schedule is as follows:
+
+|  Time | Tuesday 04/07   |
+|------:|:----------------|
+| 4:40p | Presentation 01 |
+| 4:55p | Presentation 02 |
+| 5:10p | Presentation 03 |
+| 5:25p | Presentation 04 |
+{: .is-auto}
+
+|  Time | Tuesday 04/21   |     |  Time | Thursday 04/23  |
+|------:|:----------------|:---:|------:|:----------------|
+| 4:40p | Presentation 05 |     | 4:40p | Presentation 09 |
+| 4:55p | Presentation 06 |     | 4:55p | Presentation 10 |
+| 5:10p | Presentation 07 |     | 5:10p | Presentation 11 |
+| 5:25p | Presentation 08 |
+{: .is-auto}
+
+|  Time | Tuesday 05/05   |     |  Time | Thursday 05/07  |
+|------:|:----------------|:---:|------:|:----------------|
+| 4:40p | Presentation 12 |     | 4:40p | Presentation 16 |
+| 4:55p | Presentation 13 |     | 4:55p | Presentation 17 |
+| 5:10p | Presentation 14 |     | 5:10p | Presentation 18 |
+| 5:25p | Presentation 15 |     | 5:25p | Presentation 19 |
+{: .is-auto}
